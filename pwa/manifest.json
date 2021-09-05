@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "邱晨晟曦工作室",
+  "short_name": "邱晨晟曦工作室",
+  "description": "为做web里面的一缕清风，一丝晨曦而努力",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
